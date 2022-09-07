@@ -43,6 +43,22 @@
 
 > God can use you. You must be willing to follow His leading. *Gargi*
 
+----------
+
+```S
+
+#{$selectors} {
+  background: red;
+}
+
+> https://css-tricks.com/snippets/sass/use-sass-variable-selector/
+
+
+
+
+
+
+
 
 
 
