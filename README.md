@@ -19,3 +19,27 @@
     - Iskon center
     - Parliament
     - Mysore palace
+
+**[Interesting Facts](Aboutme.md)**
+
+-----
+
+## Information about the cities
+
+## The below table shows about cities, locations and also it shows the time to spend in that location.
+
+|city name |Important locations|Time to spend|
+|----------|-------------------|-------------|
+|Banglore  | Iskon temple      |1.5hrs       |
+|chicago   | Sky Deck          |30mins       |
+|New Yark  | Niagara Falls     |2hrs         |
+|Kerala    | Munnar            |1.5hrs       |
+
+----------------------------------------------
+
+
+
+
+
+
+
