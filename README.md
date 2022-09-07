@@ -37,6 +37,10 @@
 
 ----------------------------------------------
 
+## Quotes
+
+> If you try and lose then it isn’t your fault. But if you don’t try and we lose, then it’s all your fault. *Michelangelo*
+> God can use you. You must be willing to follow His leading. *Gargi*
 
 
 
